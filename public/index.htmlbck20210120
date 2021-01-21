@@ -1,0 +1,69 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>聚合</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<style>
+body {
+	background-color: #eff0f2;
+}
+div img {
+	width: 30%;
+	margin: 1px;
+	
+}
+div .category {
+	margin-top: 20px;
+}
+div .title{
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: bold；
+}
+</style>
+</head>
+<body>
+
+<div class="category">
+<div class="title">博物馆<div>
+<hr/>
+
+<a href="./proxy/http://www.namoc.org/"><img src="logo/namoc.png" width="30%" alt="ZH美术馆"/></a>
+<a href="./proxy/https://www.mfa.org/"><img src="logo/boston.png" width="30%" alt="Boston art"/></a>
+<a href="./proxy/https://www.italy-museum.com/"><img src="logo/italym.png" width="30%" alt="Italy art"/></a>
+<a href="./proxy/https://www.bbc.com/zhongwen/simp"><img src="logo/bbc.png" width="30%" alt="BBC中文网"/></a>
+<a href="./proxy/https://cn.reuters.com/"><img src="logo/reuters.png" width="30%" alt="路飞网"/></a>
+<a href="./proxy/https://cn.wsj.com/"><img src="logo/wsj.png" width="30%" alt="华尔街"/></a>
+<a href="./proxy/https://www.v2ex.com/"><img src="logo/v2ex.png" width="30%" alt="v2ex"/></a>
+<a href="./proxy/https://www.mingjingnews.com/"><img src="logo/mingjing.png" width="30%" alt="mingjing"/></a>
+<a href="./proxy/https://time.com/"><img src="logo/time.png" width="30%" alt="time"/></a>
+<a href="./proxy/https://www.sina.com.hk/"><img src="logo/sina.png" width="30%" alt="sina"/></a>
+<a href="./proxy/https://asahichinese-j.com/"><img src="logo/asahi.png" width="30%" alt="asahi"/></a>
+<a href="./proxy/https://www.dw.com/zh/在线报导/s-9058/"><img src="logo/dw.png" width="30%" alt="dw"/></a>
+<a href="./proxy/https://www.ifanqiang.com/"><img src="logo/ifanqiang.png" width="30%" alt="ifanqiang"/></a>
+<a href="./proxy/https://www.rfi.fr/cn/"><img src="logo/rfi.png" width="30%" alt="rfi"/></a>
+<a href="./proxy/https://zh.wikipedia.org/wiki/"><img src="logo/wiki.png" width="30%" alt="阿桑奇"/></a>
+<a href="./proxy/http://cnnews.chosun.com/"><img src="logo/cxrb.png" width="30%" alt="曹县日BAO"/></a>
+<a href="./proxy/https://www.imdb.com/"><img src="logo/imdb.png" width="30%" alt="IM-DB"/></a>
+<a href="./proxy/https://www.nextdigital.com.tw/"><img src="logo/ycm.png" width="30%" alt="1+传媒"/></a>
+<a href="./proxy/http://www.callig.net/"><img src="logo/callig.png" width="30%" alt="callig"/></a>
+
+
+
+</div>
+<div class="category">
+<div class="title">跳高<div>
+<hr/>
+
+
+</div>
+
+<div class="category">
+<div class="title">油节<div>
+<hr/>
+#<a href="http://159.89.157.101/tianliang/index.html"><img src="logo/tianliang.png" width="30%" alt="天亮时分"/></a>
+
+</div>
+
+</body>
+</html>
